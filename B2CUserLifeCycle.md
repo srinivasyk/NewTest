@@ -3,7 +3,7 @@
 - [Delete Users](#Delete-Users)
 
 # Background
-This page gives the details about the lifecycle of a user in B2C.Users get created in B2C tenant when they successfully authenticate using the IDP , mygov in this case.Users can also be create manually in B2C Tenant.
+This page gives the details about the lifecycle of a user in B2C.Users get created in B2C tenant when they successfully authenticate using the IDP , mygov in this case.Users can also be created manually in B2C Tenant.
 # Delete-Users
 Users can be deleted by in the B2C user directory by following below steps
 
